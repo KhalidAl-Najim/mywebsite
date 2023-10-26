@@ -1,0 +1,80 @@
+.skills .porogrs span.html{
+    animation-name: animation_skils1;
+    animation-timing-function: ease-in;
+    animation-duration: .5s;
+    animation-fill-mode: forwards;
+}
+@keyframes animation_skils1{
+    0%{
+        width: 0%;
+    }
+    100%{
+        width: 95%;
+    }
+}
+
+/* css */
+
+.skills .porogrs span.css{
+    animation-name: animation_skils12;
+    animation-timing-function: ease-in;
+    animation-duration: .5s;
+    animation-fill-mode: forwards;
+}
+@keyframes animation_skils12{
+    0%{
+        width: 0%;
+    }
+    100%{
+        width: 88%;
+    }
+}
+
+/* js */
+
+.skills .porogrs span.javaScript{
+    animation-name: animation_skils13;
+    animation-timing-function: ease-in;
+    animation-duration: .5s;
+    animation-fill-mode: forwards;
+}
+@keyframes animation_skils13{
+    0%{
+        width: 0%;
+    }
+    100%{
+        width: 90%;
+    }
+}
+
+/* bootstrap */
+.skills .porogrs span.bootStrsp{
+    animation-name: animation_skils14;
+    animation-timing-function: ease-in;
+    animation-duration: .5s;
+    animation-fill-mode: forwards;
+}
+@keyframes animation_skils14{
+    0%{
+        width: 0%;
+    }
+    100%{
+        width: 85%;
+    }
+}
+
+/* c++ */
+.skills .porogrs span.C{
+    animation-name: animation_skils15;
+    animation-timing-function: ease-in;
+    animation-duration: .5s;
+    animation-fill-mode: forwards;
+}
+@keyframes animation_skils15{
+    0%{
+        width: 0%;
+    }
+    100%{
+        width: 75%;
+    }
+}
